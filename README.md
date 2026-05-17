@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Amin 👋
 
-<!--
-**aminghuf/aminghuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science / Data Analysis student at University of Messina 🇮🇹
 
-Here are some ideas to get you started:
+Interested in:
+- DevOps
+- Cloud Infrastructure
+- Linux
+- Automation
+- CI/CD
+- Kubernetes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning:
+- Kubernetes
+- Terraform
+- Monitoring & Observability
+
+## Tech Stack
+
+- Linux
+- Docker
+- Git & GitHub
+- AWS EC2
+- Bash
+- Python
+- GitHub Actions
+- Nginx
+- Kubernetes (basic)
+
+## Projects
+
+### Dockerized Web App Deployment
+- Dockerized application
+- Nginx reverse proxy
+- CI/CD with GitHub Actions
+- AWS EC2 deployment
+
+### Linux Server Monitoring
+- Bash automation scripts
+- System monitoring
+- Log management
+
+## Goals for 2026
+- Build production-style DevOps projects
+- Get remote DevOps internship
+- Learn Kubernetes & Terraform deeply
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/aminghazizadeh/ <br>
+Email: amin.gha98@gmail.com <br>
+       seyedamin.ghazizadeh@studenti.unime.it 
